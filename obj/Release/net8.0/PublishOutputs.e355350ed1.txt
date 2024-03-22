@@ -1,0 +1,12 @@
+/Users/ben/p/FHIR/bin/Release/net8.0/publish/FHIR
+/Users/ben/p/FHIR/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/ben/p/FHIR/bin/Release/net8.0/publish/appsettings.json
+/Users/ben/p/FHIR/bin/Release/net8.0/publish/FHIR.dll
+/Users/ben/p/FHIR/bin/Release/net8.0/publish/FHIR.deps.json
+/Users/ben/p/FHIR/bin/Release/net8.0/publish/FHIR.runtimeconfig.json
+/Users/ben/p/FHIR/bin/Release/net8.0/publish/FHIR.pdb
+/Users/ben/p/FHIR/bin/Release/net8.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/ben/p/FHIR/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/Users/ben/p/FHIR/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ben/p/FHIR/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ben/p/FHIR/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
